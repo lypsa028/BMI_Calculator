@@ -1,3 +1,4 @@
 # BMI_Calculator
 
-<img src= "D:\Lypsa\Flutter\BMI Calc\flutter-bmi-calculator.png></img>
+A BMI Calculator used to measure the body mass index made with flutter.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
